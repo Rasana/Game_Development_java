@@ -8,6 +8,7 @@ public static void main( String args[])
 	System.out.println("Azambari group almost complete");
 	System.out.println("Almost ?? :D :D :D #ezer");
 	System.out.println("Lab bata push :D :D ");
+	System.out.print("HAHAHAHAHAHAHAHAHAHEZER");
 }
 }
 
