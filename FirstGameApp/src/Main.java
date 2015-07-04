@@ -8,11 +8,9 @@ public static void main( String args[])
 	System.out.println("Azambari group almost complete");
 	System.out.println("Almost ?? :D :D :D #ezer");
 	System.out.println("Lab bata push :D :D ");
-<<<<<<< HEAD
-<<<<<<< HEAD
 	System.out.println("GITHUB TESTING");
-=======
 	System.out.print("HAHAHAHAHAHAHAHAHAHEZER");
+<<<<<<< HEAD
 <<<<<<< HEAD
 	System.out.println("Sagar");
 =======
@@ -21,6 +19,9 @@ public static void main( String args[])
 	System.out.print("HAHAHAHAHAHAHAHAHAHEZER");
 >>>>>>> origin/master
 >>>>>>> de64d720b0aabb95e6d82d7f1173c1e0589ae24e
+=======
+	System.out.print("HAHAHAHAHAHAHAHAHAHEZER");
+>>>>>>> a003eb940598bc2393ed5355d3e258b2ef1c4884
 }
 }
 
