@@ -10,18 +10,11 @@ public static void main( String args[])
 	System.out.println("Lab bata push :D :D ");
 	System.out.println("GITHUB TESTING");
 	System.out.print("HAHAHAHAHAHAHAHAHAHEZER");
-<<<<<<< HEAD
-<<<<<<< HEAD
 	System.out.println("Sagar");
-=======
->>>>>>> 64a893c1a80af0c0a0e0b01c8d536494aa89431b
-=======
+
 	System.out.print("HAHAHAHAHAHAHAHAHAHEZER");
->>>>>>> origin/master
->>>>>>> de64d720b0aabb95e6d82d7f1173c1e0589ae24e
-=======
-	System.out.print("HAHAHAHAHAHAHAHAHAHEZER");
->>>>>>> a003eb940598bc2393ed5355d3e258b2ef1c4884
+        System.out.print("HAHAHAHAHAHAHAHAHAHEZER");
+        System.out.println("I am here");
 }
 }
 
